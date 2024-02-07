@@ -1,0 +1,13 @@
+ECMAScript 6, also known as ES6 or ECMAScript 2015, is the sixth edition of the ECMAScript standard. It was finalized in June 2015 by the ECMA International standards organization. ES6 introduces several new features and enhancements to JavaScript, making the language more powerful and expressive.
+
+One of the most significant additions in ES6 is the introduction of let and const keywords for declaring variables. These keywords provide block-scoping, which helps in avoiding variable hoisting issues and makes the code more predictable.
+
+Another important feature of ES6 is the arrow function syntax. Arrow functions provide a concise syntax for writing function expressions, making the code more readable and expressive.
+
+ES6 also introduces classes, which are a new way of defining constructor functions and creating objects with prototype-based inheritance. The class syntax is more straightforward and intuitive compared to the traditional prototype-based approach.
+
+Template literals are another useful addition to ES6. Template literals allow embedding expressions inside string literals using the ${} syntax, making string interpolation easier and more flexible.
+
+Additionally, ES6 introduces destructuring assignment, default parameter values, rest parameters, spread syntax, and many other enhancements to the language syntax and features.
+
+Overall, ECMAScript 6 brings significant improvements to JavaScript, making it a more modern and powerful language for web development.
